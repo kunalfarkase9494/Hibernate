@@ -22,8 +22,8 @@ public class App
         
         Employee e = new Employee();
         e.setEid(101);
-        e.setEname("shaym");
-        e.setEsalary(2000);
+        e.setEname("Ram");
+        e.setEsalary(60000);
         
         s.save(e);//
         t.commit(); //
